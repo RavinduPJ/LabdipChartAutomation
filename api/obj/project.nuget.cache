@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3wH2GMDuNGL9uKDJ0A9CCFrJywq8isn77q3bgIyPrQzRCZzR0WpKHAu7ZZ523lbvCB4U8BTxds4+wAweLTegzA==",
+  "success": true,
+  "projectFilePath": "C:\\PROJECTS\\LabDip Chart Automation\\api\\BrandixAutomation.Labdip.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DevonP\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\DevonP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
